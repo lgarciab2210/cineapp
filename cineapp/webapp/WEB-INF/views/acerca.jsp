@@ -24,7 +24,7 @@
 
 		<div class="panel panel-default">
 			<div class="panel-heading">
-				<h3 class="panel-title">ACERCA DE ESTA APLICACION</h3>
+				<h3 class="panel-title">ACERCA DE ESTA APLICACION - puma cabro</h3>
 			</div>
 			<div class="panel-body">
 				<div class="row">

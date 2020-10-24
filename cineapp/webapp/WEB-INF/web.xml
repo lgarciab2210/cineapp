@@ -15,7 +15,7 @@
 
 		<!-- Para Habilitar Upload Files -->
 		<multipart-config>			 	
-			<location>c:\tmp</location>
+			<location>C:\Carpeta</location>
 			<!--		
 			<location>/tmp</location>
 			-->			 
